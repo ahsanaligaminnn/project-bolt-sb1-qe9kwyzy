@@ -1,0 +1,11 @@
+# QuotexApi Trading Dashboard Requirements
+flask==2.3.3
+flask-cors==4.0.0
+requests==2.31.0
+websockets==11.0.3
+aiohttp==3.8.5
+asyncio-mqtt==0.13.0
+
+# Install QuotexApi separately:
+# git clone https://github.com/ahsanaligaminnn/QuotexApi
+# pip install -r QuotexApi/requirements.txt
