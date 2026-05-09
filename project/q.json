@@ -1,1 +1,9 @@
-
+{
+  "users": {
+    "afa": {
+      "password": "ai@321",
+      "type": "temporary",
+      "expiry": "2026-05-10 23:59:59"
+    }
+  }
+}
