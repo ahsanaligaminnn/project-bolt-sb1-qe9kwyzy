@@ -4,11 +4,6 @@
       "password": "ali",
       "type": "lifetime",
       "expiry": null
-    },
-    "afa": {
-      "password": "ai@321",
-      "type": "temporary",
-      "expiry": "2026-05-12 23:59:59"
     }
   }
 }
