@@ -4,6 +4,11 @@
       "password": "ali",
       "type": "lifetime",
       "expiry": null
+    },
+    "waqar": {
+      "password": "waqar@321",
+      "type": "temporary",
+      "expiry": "2026-07-31 23:59:59"
     }
   }
 }
